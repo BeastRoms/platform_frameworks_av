@@ -19,4 +19,3 @@ include $(CLEAR_VARS)
 # Build tests
 
 include $(LOCAL_PATH)/tests/Android.mk
-
